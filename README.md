@@ -1,4 +1,4 @@
-TASK
+TASK (Word Synonyms)
 
 - State, Promises, API calls
 
